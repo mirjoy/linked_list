@@ -1,4 +1,3 @@
-linked_list
+Linked List
 ===========
-
-Created a Linked List in Ruby
+I implemented this data structure my first week at Turing.
